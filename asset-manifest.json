@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muhanwordle/static/css/main.331591d6.css",
+    "main.js": "/muhanwordle/static/js/main.d9a581cd.js",
+    "static/js/787.88329844.chunk.js": "/muhanwordle/static/js/787.88329844.chunk.js",
+    "index.html": "/muhanwordle/index.html",
+    "main.331591d6.css.map": "/muhanwordle/static/css/main.331591d6.css.map",
+    "main.d9a581cd.js.map": "/muhanwordle/static/js/main.d9a581cd.js.map",
+    "787.88329844.chunk.js.map": "/muhanwordle/static/js/787.88329844.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331591d6.css",
+    "static/js/main.d9a581cd.js"
+  ]
+}
